@@ -6,6 +6,8 @@ Teach and leurn Lua to Dark RP
 
 // TODO HELLO WORLD
 
+// TODO LOOPS AND MATH
+
 // TODO HELLO WORLD TO PLAYER
 
 // TODO HELLO WORLD ON TRIGER
@@ -14,11 +16,22 @@ Teach and leurn Lua to Dark RP
 
 // TODO HELLO WORLD GUI
 
-// TODO LOOPS
-
 // TODO ADD IMG TO GUI
+
+// TODO Modualrization
 
 // TODO CLASSES
 
+// TODO Objects
+
+// TODO Items
+
 // TODO FULL REWITE WITH NEW KNOWELGE
 
+// TODO 1 1 1 FIRST WRITE
+
+// TODO 5 5 5 Second Write
+
+// TODO MAPS therory
+
+// TODO Game Flow
