@@ -52,6 +52,7 @@ NOTE: NOT ALL TODO ARE EQUEL AND WILL HAVE SUB TODOS
 
 ##DATABACE 101
 ###If health canada has one why cant we
+- [ ] TODO private repo re gitlab
 - [ ] TODO DB HELLO WORLD
 - [ ] TODO DB Mind Map
 - [ ] TODO DB
