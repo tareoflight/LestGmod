@@ -1,6 +1,6 @@
 # LestGmod
 Teach and leurn Lua to Dark RP
-// TODO SET UP GMOD SERVER ON AJAX
+// TODO SET UP GMOD SERVER ON AJAX http://wiki.garrysmod.com/page/Linux_Dedicated_Server_Hosting
 
 // TODO MAKE STOP -> PULL GIT -> START
 
