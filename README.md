@@ -1,5 +1,5 @@
 # LestGmod
-##Teach and leurn Lua to Dark RP
+##Teach Poit and leurn Lua to Dark RP
 
 [See wiki](https://github.com/tareoflight/LetsGmod/wiki)
 
