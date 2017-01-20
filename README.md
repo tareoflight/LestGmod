@@ -1,12 +1,13 @@
 # LestGmod
 Teach and leurn Lua to Dark RP
+NOTE: NOT ALL TODO ARE EQUEL AND WILL HAVE SUB TODOS
 
 // TODO GIT SETUP
 
 // TODO SET UP GMOD SERVER ON AJAX 
 http://wiki.garrysmod.com/page/Linux_Dedicated_Server_Hosting
 
-// TODO MAKE STOP -> PULL GIT -> START
+// TODO MAKE STOP -> UPDATE -> PULL GIT -> START SCRIPT
 
 // TODO HELLO WORLD
 
@@ -20,6 +21,8 @@ http://wiki.garrysmod.com/page/Linux_Dedicated_Server_Hosting
 
 // TODO ADD IMG TO GUI
 
+// TODO Simple Vector math O.o
+
 // TODO Modualrization
 
 // TODO CLASSES -- Inharetence
@@ -29,6 +32,8 @@ http://wiki.garrysmod.com/page/Linux_Dedicated_Server_Hosting
 // TODO Objects -- place in world -- interactet with
 
 // TODO Items -- mod stats -- use
+
+// TODO API --SIMPLE
 
 // TODO FULL REWITE WITH NEW KNOWELGE
 
@@ -52,12 +57,62 @@ http://wiki.garrysmod.com/page/Linux_Dedicated_Server_Hosting
 
 // TODO Maze the MAP
 
-// TODO MILESTONE (ALPHA)
+// TODO MILESTONE (ALPHA 0.1)
 
 // TODO DB HELLO WORLD
 
 // TODO DB Mind Map
 
+// TODO DB
+
+// TODO API -- DIRTY
+
+// TODO TESTING FAZE
+
+// TODO MILESTONE (ALPHA 0.2)
+
 // TODO OBJECT LIST
 
 // TODO CLASS LIST
+
+// TODO TESTING FAZE
+
+// TODO MILESTONE (ALPHA 0.3)
+
+// TODO FLOW MODLE OF PROGRAM
+
+// TODO FIRST PASS OPTIMIZASHION
+
+// TODO TESTING FAZE
+
+// TODO MILESTONE (ALPHA 0.4)
+
+// TODO TALK ABOUT PAYMODEL
+
+// TODO API -- SANITIZE
+
+// TODO WEBPAGE -- API INTERAGSION
+
+// TODO WABPAGE TESTING
+
+// TODO PAYMODEL IMPENTASION
+
+// TODO TESTING FAZE
+
+// TODO MILESTONE (ALPHA 0.5)
+
+// TODO FIRST PUBLIC RELECE
+
+// TODO STAY SAINE (30MIN FOR 1000 PLAYERS?)
+
+// TODO MILESTONE (ALPHA 0.6)
+
+// TODO COMUITIE EXPASHION
+
+// TODO STAY SAINE (30MIN FOR 2000 PLAYERS?)
+
+// TODO MILESTONE (ALPHA 0.7)
+
+// TODO TALK ABOUT THE FUTCER
+
+// TODO ROAD MAP TO FULL RELECE
