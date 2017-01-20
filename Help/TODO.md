@@ -9,7 +9,6 @@ NOTE: NOT ALL TODO ARE EQUEL AND WILL HAVE SUB TODOS
 - [ ] TODO [SUBLIME](https://www.sublimetext.com/) SETUP
 - [ ] TODO SET UP [GMOD](http://wiki.garrysmod.com/page/Linux_Dedicated_Server_Hosting) SERVER ON AJAX 
 - [ ] TODO MAKE STOP -> UPDATE -> PULL GIT -> START SCRIPT
-***
 
 ##HELLO WORLD LUA 101 -> Gmod
 ###yep this will be hard and fast
@@ -28,7 +27,6 @@ NOTE: NOT ALL TODO ARE EQUEL AND WILL HAVE SUB TODOS
 - [ ] TODO EVENTS -- all of them
 - [ ] TODO API --SIMPLE
 - [ ] TODO FULL REWITE WITH NEW KNOWELGE
-***
 
 ##first step
 ###It's a long way down
@@ -37,7 +35,6 @@ NOTE: NOT ALL TODO ARE EQUEL AND WILL HAVE SUB TODOS
 - [ ] TODO 5 5 5 Second Write
 - [ ] TODO Second TESTING FAZE
 - [ ] TODO MILESTONE (INDEV)
-***
 
 ##MAPS
 ###Whats ware and why
@@ -48,7 +45,6 @@ NOTE: NOT ALL TODO ARE EQUEL AND WILL HAVE SUB TODOS
 - [ ] TODO Maze the MAP
 - [ ] TODO TESTING FAZE
 - [ ] TODO MILESTONE (ALPHA 0.1)
-***
 
 ##DATABACE 101
 ###If health canada has one why cant we
@@ -59,7 +55,6 @@ NOTE: NOT ALL TODO ARE EQUEL AND WILL HAVE SUB TODOS
 - [ ] TODO API -- DIRTY
 - [ ] TODO TESTING FAZE
 - [ ] TODO MILESTONE (ALPHA 0.2)
-***
 
 ##EXPAND
 ###The number of dirty jokes ...
@@ -67,7 +62,6 @@ NOTE: NOT ALL TODO ARE EQUEL AND WILL HAVE SUB TODOS
 - [ ] TODO CLASS LIST
 - [ ] TODO TESTING FAZE
 - [ ] TODO MILESTONE (ALPHA 0.3)
-***
 
 ##REFINE
 ###Time to hone the edge
@@ -75,7 +69,6 @@ NOTE: NOT ALL TODO ARE EQUEL AND WILL HAVE SUB TODOS
 - [ ] TODO FIRST PASS OPTIMIZASHION
 - [ ] TODO TESTING FAZE
 - [ ] TODO MILESTONE (ALPHA 0.4)
-***
 
 ##MONEY and WEB PAGE
 ###Luck, luck, and more luck
@@ -86,21 +79,18 @@ NOTE: NOT ALL TODO ARE EQUEL AND WILL HAVE SUB TODOS
 - [ ] TODO PAYMODEL IMPENTASION
 - [ ] TODO TESTING FAZE
 - [ ] TODO MILESTONE (ALPHA 0.5)
-***
 
 ##REALITY
 ###Well time to twitle thumbs or fix bugs
 - [ ] TODO FIRST PUBLIC RELECE
 - [ ] TODO STAY SAINE (30MIN FOR 1000 PLAYERS?)
 - [ ] TODO MILESTONE (ALPHA 0.6)
-***
 
 ##REALITY v2.0
 ###Adds and butgeting
 - [ ] TODO COMUITIE EXPASHION
 - [ ] TODO STAY SAINE (30MIN FOR 2000 PLAYERS?)
 - [ ] TODO MILESTONE (ALPHA 0.7)
-***
 
 ##WHAT NOW
 ###........................
