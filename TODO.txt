@@ -1,5 +1,3 @@
-# LestGmod
-Teach and leurn Lua to Dark RP
 NOTE: NOT ALL TODO ARE EQUEL AND WILL HAVE SUB TODOS
 
 // TODO GIT SETUP
