@@ -21,8 +21,10 @@ NOTE: NOT ALL TODO ARE EQUEL AND WILL HAVE SUB TODOS
 - [ ] TODO ADD IMG TO GUI
 - [ ] TODO Simple Vector math O.o
 - [ ] TODO Modualrization
-- [ ] TODO HELLO WORLD MAP
+- [ ] TODO [HELLO WORLD MAP](https://developer.valvesoftware.com/wiki/Your_First_Map)
 - [ ] TODO CLASSES -- Inharetence
+		- -Lua Tables
+		- -Get/ Set/ Validashion
 - [ ] TODO Objects -- place in world -- interactet with
 - [ ] TODO Items -- mod stats -- use
 - [ ] TODO EVENTS -- all of them
