@@ -14,6 +14,7 @@ NOTE: NOT ALL TODO ARE EQUEL AND WILL HAVE SUB TODOS
 ###yep this will be hard and fast
 - [ ] TODO HELLO WORLD
 - [ ] TODO LOOPS AND MATH
+- [ ] TODO [MY FIRST GAMEMODE](https://wiki.garrysmod.com/page/Gamemode_Creation)
 - [ ] TODO HELLO WORLD TO PLAYER
 - [ ] TODO HELLO WORLD ON TRIGER
 - [ ] TODO HELLO WORLD GUI
