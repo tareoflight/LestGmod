@@ -5,8 +5,8 @@ NOTE: NOT ALL TODO ARE EQUEL AND WILL HAVE SUB TODOS
 
 ##SETUP
 ###I'll do this with you (no lurning)
-- [ ] TODO [GIT](https://desktop.github.com/) SETUP
-- [ ] TODO [SUBLIME](https://www.sublimetext.com/) SETUP
+- [x] TODO [GIT](https://desktop.github.com/) SETUP
+- [x] TODO [SUBLIME](https://www.sublimetext.com/) SETUP
 - [ ] TODO SET UP [GMOD](http://wiki.garrysmod.com/page/Linux_Dedicated_Server_Hosting) SERVER ON AJAX 
 - [ ] TODO MAKE [STOP -> UPDATE -> PULL GIT -> START SCRIPT](http://www.freeos.com/guides/lsst/ch02sec01.html)
 
