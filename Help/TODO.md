@@ -7,8 +7,8 @@ NOTE: NOT ALL TODO ARE EQUEL AND WILL HAVE SUB TODOS
 ###I'll do this with you (no lurning)
 - [x] TODO [GIT](https://desktop.github.com/) SETUP
 - [x] TODO [SUBLIME](https://www.sublimetext.com/) SETUP
-- [ ] TODO SET UP [GMOD](http://wiki.garrysmod.com/page/Linux_Dedicated_Server_Hosting) SERVER ON AJAX 
-- [ ] TODO MAKE [STOP -> UPDATE -> PULL GIT -> START SCRIPT](http://www.freeos.com/guides/lsst/ch02sec01.html)
+- [x] TODO SET UP [GMOD](http://wiki.garrysmod.com/page/Linux_Dedicated_Server_Hosting) SERVER ON AJAX 
+- [x] TODO MAKE [STOP -> UPDATE -> PULL GIT -> START SCRIPT](http://www.freeos.com/guides/lsst/ch02sec01.html)
 
 ##HELLO WORLD LUA 101 -> Gmod
 ###yep this will be hard and fast
