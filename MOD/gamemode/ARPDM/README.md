@@ -1,2 +1,5 @@
 #This is our gamemode
-Needs that ini that makes it work
+### ##
+##ARPDM.txt
+this is the info file for the game mode
+  has nice title and will have what map to load
