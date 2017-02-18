@@ -1,5 +1,0 @@
-"ARPDM"
-{
-	"base"		"base"
-	"title"		"Ajax Role Play Death Match"
-}
