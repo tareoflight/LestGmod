@@ -6,5 +6,5 @@ GM.Email = "GModed@ajaxstudios.com"
 GM.Website = "http://ajaxstudios.com/"
 
 function GM:Initialize()
-	-- Do stuff on client
+	-- Do stuff on both server and client
 end
