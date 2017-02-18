@@ -5,10 +5,4 @@ GM.Website = "http://ajaxstudios.com/"
 
 function GM:Initialize()
 	-- Do stuff on client
-
-
-	net.Start("New")
-	net.WriteUInt(1,8)
-	net.SendToServer()
-
 end
