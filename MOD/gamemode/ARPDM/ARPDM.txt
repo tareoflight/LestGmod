@@ -2,5 +2,4 @@
 {
 	"base"		"base"
 	"title"		"Ajax Role Play Death Match"
-	"menusystem"	"0"
 }
