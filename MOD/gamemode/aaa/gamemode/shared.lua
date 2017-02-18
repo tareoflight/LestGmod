@@ -1,5 +1,7 @@
+DeriveGamemode( "sandbox" )
+
 GM.Name = "Ajax Role Play Death Match"
-GM.Author = "Nathan & Nathaniel"
+GM.Author = "Poit / Tareoflight"
 GM.Email = "GModed@ajaxstudios.com"
 GM.Website = "http://ajaxstudios.com/"
 

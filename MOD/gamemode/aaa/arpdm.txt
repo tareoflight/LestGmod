@@ -1,0 +1,6 @@
+"arpdm"
+{
+	"base"		"sandbox"
+	"title"		"Ajax Role Play Death Match"
+	"maps"		"^gm_"
+}
