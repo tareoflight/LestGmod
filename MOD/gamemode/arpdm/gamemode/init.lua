@@ -5,8 +5,12 @@ AddCSLuaFile( "shared.lua" )
 include( "shared.lua" )
 
 -- -----------------------------------
-util.AddNetworkString("UserJoin");
+function GM:PlayerConnect(name,ip)
+	PrintMessage(HUD_PRINTTALK,name.." has joined")
+	print("{\"Name\" : \""..name.."\", \"IP\" : "..ip..", \"Stat\" : \"Joined\"}")
+end
 
-net.Receive("UserJoin", function( el,ply )
-	ply:PrintMessage(HUD_PRINTCENTER,"Hello "+ply:GetName()+", \n Welcome to the server!")
-end )
+function GM:PlayerDisconnected( ply )
+	PrintMessage( HUD_PRINTTALK, ply:GetName().. " has left the server." )
+	print("{\"Name\" : \""..ply:GetName().."\", \"IP\" : "..ply:IPAddress()..", \"Stat\" : \"Disconnected\"}")
+end
