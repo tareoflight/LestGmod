@@ -6,5 +6,11 @@ include( "shared.lua" )
 // Attempting to greet the player upon server connection.
 
 function GM:PlayerConnect( name, ip )
-	PrintMessage( HUD_PRINTTALK, name .. " has joined the game. 1234" )
+	
+	pname = name
+	pip = ip
+
+	for k, ply in pairs( player.GetAll() ) do
+	ply:ChatPrint( pname .. " has joined the game." pname .. "'s ip address is " .. pip )
+
 end
