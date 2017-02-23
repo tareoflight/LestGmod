@@ -14,6 +14,8 @@ local DermaButton = vgui.Create( "DButton", DermaPanel )
 DermaButton:SetText( "Say hi" )					
 DermaButton:SetPos( 25, 50)
 DermaButton:SetSize( 250, 30 )	
-DermaButton.DoClick = function()
+DermaButton.DoClick = sayHi()
+
+function sayHi()
 	RunConsoleCommand( "say", "Hi" )
 end
