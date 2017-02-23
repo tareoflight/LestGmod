@@ -1,0 +1,29 @@
+"Ajax RPDM"
+{
+	"base"		"sandbox"
+	"title"		"Ajax RPDM"
+	"maps"		"^gm_"
+	"menusystem"	"1"
+	"workshopid"	"nil"
+
+	"settings"
+	{
+		1
+		{
+			"name"		"sk_maxfrags"
+			"text"		"Max Frags"
+			"help"		"The maximum number of frags before a map change."
+			"type"		"Numeric"
+			"default"	"99999"
+			}
+
+			2
+			{
+			"name"		"sk_grenades"
+			"text"		"Allow Grenades"
+			"help"		"If enabled, then grenades are allowed."
+			"type"		"CheckBox"
+			"default"	"1"
+		}
+	}
+}
